@@ -46,3 +46,7 @@ git push origin [name_of_your_new_branch]
 ```
 
 pull remote branch to local
+```
+ git remote add [name_of_your_remote] [name_of_your_new_branch]
+ ```
+ 
