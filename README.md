@@ -31,10 +31,17 @@ Reglas:
 ## Tips git
 
 clone repository
+```
+git clone git@github.com:fermin-eb/import-export-workshop.git 
+```
 
 create branch
+```
+git checkout -b [name_of_your_new_branch]
+```
 
 push branch to origin
-
-pull remote branch to local
+```
+git push origin [name_of_your_new_branch]
+```
 
