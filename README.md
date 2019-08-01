@@ -45,3 +45,4 @@ push branch to origin
 git push origin [name_of_your_new_branch]
 ```
 
+pull remote branch to local
