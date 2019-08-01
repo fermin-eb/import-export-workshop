@@ -28,7 +28,7 @@ Reglas:
 - Se continua el trabajo por donde lo ha dejado el compañero sin hablar entre ellos.
 
 
-## Tips git
+## Git tips
 
 clone repository
 ```
@@ -49,4 +49,3 @@ pull remote branch to local
 ```
  git remote add [name_of_your_remote] [name_of_your_new_branch]
  ```
- 
